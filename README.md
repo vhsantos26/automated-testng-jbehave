@@ -1,5 +1,2 @@
-
-
-
-# Automated TestNG & JBehave
+# Quality Parant
 
