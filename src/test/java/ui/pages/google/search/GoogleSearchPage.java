@@ -4,9 +4,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-import com.org.commons.selenium.elements.Button;
-import com.org.commons.selenium.elements.Input;
-import com.org.commons.utils.Page;
+import com.org.quality.ui.selenium.elements.Button;
+import com.org.quality.ui.selenium.elements.Input;
+import com.org.quality.ui.utils.Page;
 
 public class GoogleSearchPage extends Page {
 
